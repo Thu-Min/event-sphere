@@ -4,7 +4,7 @@ title: Purchase confirmation & ticket generation
 status: unassigned
 milestone: M4
 branch: feature/purchase-confirmation
-issue: null
+issue: 12
 dependsOn:
   - F-011
 ---

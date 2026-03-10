@@ -4,7 +4,7 @@ title: Organizer event creation form
 status: unassigned
 milestone: M2
 branch: feature/organizer-event-form
-issue: null
+issue: 5
 dependsOn:
   - F-003
   - F-004

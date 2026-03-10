@@ -4,7 +4,7 @@ title: User authentication & accounts
 status: unassigned
 milestone: M1
 branch: feature/user-authentication
-issue: null
+issue: 3
 dependsOn:
   - F-002
 ---

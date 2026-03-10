@@ -4,7 +4,7 @@ title: Event browse page with cards
 status: unassigned
 milestone: M3
 branch: feature/event-browse-page
-issue: null
+issue: 8
 dependsOn:
   - F-007
 ---

@@ -4,7 +4,7 @@ title: Category, date & location filters
 status: unassigned
 milestone: M3
 branch: feature/discovery-filters
-issue: null
+issue: 9
 dependsOn:
   - F-008
 ---

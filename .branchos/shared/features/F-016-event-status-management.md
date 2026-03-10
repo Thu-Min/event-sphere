@@ -4,7 +4,7 @@ title: Event status management (draft/published/closed)
 status: unassigned
 milestone: M5
 branch: feature/event-status-management
-issue: null
+issue: 16
 dependsOn:
   - F-005
 ---

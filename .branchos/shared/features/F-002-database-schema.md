@@ -4,7 +4,7 @@ title: Database schema & ORM setup
 status: unassigned
 milestone: M1
 branch: feature/database-schema
-issue: null
+issue: 2
 dependsOn:
   - F-001
 ---

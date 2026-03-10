@@ -4,7 +4,7 @@ title: Ticket type & inventory model
 status: unassigned
 milestone: M4
 branch: feature/ticket-inventory-model
-issue: null
+issue: 10
 dependsOn:
   - F-004
 ---

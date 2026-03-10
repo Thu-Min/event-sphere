@@ -4,7 +4,7 @@ title: Event CRUD API
 status: unassigned
 milestone: M2
 branch: feature/event-crud-api
-issue: null
+issue: 4
 dependsOn:
   - F-002
 ---

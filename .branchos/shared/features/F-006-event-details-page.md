@@ -4,7 +4,7 @@ title: Event details page
 status: unassigned
 milestone: M2
 branch: feature/event-details-page
-issue: null
+issue: 6
 dependsOn:
   - F-004
 ---

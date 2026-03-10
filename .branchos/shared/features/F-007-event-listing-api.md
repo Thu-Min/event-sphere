@@ -4,7 +4,7 @@ title: Event listing API with filters
 status: unassigned
 milestone: M3
 branch: feature/event-listing-api
-issue: null
+issue: 7
 dependsOn:
   - F-004
 ---

@@ -4,7 +4,7 @@ title: Stripe checkout integration
 status: unassigned
 milestone: M4
 branch: feature/stripe-checkout
-issue: null
+issue: 11
 dependsOn:
   - F-003
   - F-010

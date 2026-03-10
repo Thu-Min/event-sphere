@@ -4,7 +4,7 @@ title: Organizer dashboard with sales tracking
 status: unassigned
 milestone: M5
 branch: feature/organizer-dashboard
-issue: null
+issue: 15
 dependsOn:
   - F-005
   - F-012
