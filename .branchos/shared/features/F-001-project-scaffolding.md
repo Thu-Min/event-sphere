@@ -1,17 +1,18 @@
 ---
 id: F-001
 title: Project scaffolding & dev environment
-status: unassigned
+status: in-progress
 milestone: M1
 branch: feature/project-scaffolding
 issue: 1
+workstream: project-scaffolding-dev-environment
 ---
 
 ## Acceptance Criteria
 
-- [ ] Next.js frontend app initialized with TypeScript
-- [ ] Node.js backend API initialized (Express or NestJS)
-- [ ] Monorepo or folder structure established (frontend/, backend/)
+- [ ] Next.js app initialized with TypeScript
+- [ ] Next.js API routes configured for backend endpoints
+- [ ] Project structure established (app/, api/ within Next.js)
 - [ ] ESLint and Prettier configured
-- [ ] Dev scripts work: `npm run dev` starts both frontend and backend
-- [ ] Basic health-check endpoint returns 200
+- [ ] Dev scripts work: `npm run dev` starts the Next.js app
+- [ ] Basic health-check API route returns 200

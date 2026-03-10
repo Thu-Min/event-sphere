@@ -248,7 +248,7 @@ Frontend
 
 Backend
 
-- Node.js / Express or NestJS
+- Next.js
 
 Database
 
