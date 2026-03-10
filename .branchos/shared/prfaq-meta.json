@@ -1,0 +1,40 @@
+{
+  "source": "PR-FAQ.md",
+  "ingestedAt": "2026-03-10T00:00:00Z",
+  "checksum": "0aa1fd2e85ac2a35ad6d334f6fbfbce0",
+  "product": "EventSphere",
+  "status": "ingested",
+  "sections": [
+    "Press Release",
+    "Customer Problem",
+    "Solution Overview",
+    "Key MVP Features",
+    "Customer FAQ",
+    "Internal FAQ",
+    "Future Roadmap",
+    "Summary"
+  ],
+  "keyFeatures": [
+    "Event Discovery",
+    "Event Details Page",
+    "Ticket Purchase",
+    "Digital Tickets",
+    "Organizer Event Creation",
+    "Organizer Dashboard"
+  ],
+  "techStack": {
+    "frontend": "React / Next.js",
+    "backend": "Node.js / Express or NestJS",
+    "database": "PostgreSQL",
+    "payments": "Stripe",
+    "hosting": "AWS / Vercel"
+  },
+  "outOfScope": [
+    "Mobile apps",
+    "Payment splitting for organizers",
+    "Promotions or discount codes",
+    "Seat selection",
+    "Ticket resale",
+    "QR check-in systems"
+  ]
+}
