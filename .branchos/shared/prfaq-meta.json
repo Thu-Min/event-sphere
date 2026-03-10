@@ -1,7 +1,7 @@
 {
   "source": "PR-FAQ.md",
   "ingestedAt": "2026-03-10T00:00:00Z",
-  "checksum": "0aa1fd2e85ac2a35ad6d334f6fbfbce0",
+  "checksum": "41267251f6e248b23ea59b5ecbe5b002",
   "product": "EventSphere",
   "status": "ingested",
   "sections": [
@@ -25,7 +25,7 @@
   "techStack": {
     "frontend": "React / Next.js",
     "backend": "Node.js / Express or NestJS",
-    "database": "PostgreSQL",
+    "database": "SQLite",
     "payments": "Stripe",
     "hosting": "AWS / Vercel"
   },

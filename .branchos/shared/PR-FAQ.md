@@ -252,7 +252,7 @@ Backend
 
 Database
 
-- PostgreSQL
+- SQL Lite
 
 Payments
 
