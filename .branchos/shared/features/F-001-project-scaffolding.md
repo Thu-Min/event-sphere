@@ -1,7 +1,7 @@
 ---
 id: F-001
 title: Project scaffolding & dev environment
-status: in-progress
+status: complete
 milestone: M1
 branch: feature/project-scaffolding
 issue: 1
