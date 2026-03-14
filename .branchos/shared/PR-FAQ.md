@@ -159,6 +159,25 @@ Organizers can view:
 
 ---
 
+## 7. Save Events (Bookmark)
+
+Users can save events they are interested in but not ready to purchase yet.
+
+The **Save Event** feature allows users to bookmark events and revisit them later.
+
+Saved events appear in a **Saved Events** section in the user dashboard.
+
+Users can:
+
+- Bookmark events from the event card
+- View all saved events in one place
+- Quickly navigate back to event details
+- Purchase tickets later
+
+This helps users keep track of interesting events without needing to search again.
+
+---
+
 # Customer FAQ
 
 ### Q: What is EventSphere?
