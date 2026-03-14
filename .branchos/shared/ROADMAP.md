@@ -2,17 +2,17 @@
 
 > If discovering events and buying tickets becomes easy, more people will attend events and organizers will adopt a centralized platform.
 
-**Milestones:** 5 | **Features:** 16
+**Milestones:** 5 | **Features:** 17
 
 ---
 
-## M1: Foundation (0/3 features complete)
+## M1: Foundation (1/3 features complete)
 
 Core project scaffolding, database schema, and authentication.
 
 | # | Feature | Status | Depends On |
 |---|---------|--------|------------|
-| F-001 | Project scaffolding & dev environment | unassigned | -- |
+| F-001 | Project scaffolding & dev environment | complete | -- |
 | F-002 | Database schema & ORM setup | unassigned | F-001 |
 | F-003 | User authentication & accounts | unassigned | F-002 |
 
@@ -55,7 +55,7 @@ Ticket purchase flow with Stripe integration and digital ticket delivery.
 
 ---
 
-## M5: Dashboards (0/3 features complete)
+## M5: Dashboards (0/4 features complete)
 
 User and organizer dashboards for tracking events and sales.
 
@@ -64,3 +64,4 @@ User and organizer dashboards for tracking events and sales.
 | F-014 | User "My Events" dashboard | unassigned | F-012 |
 | F-015 | Organizer dashboard with sales tracking | unassigned | F-005, F-012 |
 | F-016 | Event status management (draft/published/closed) | unassigned | F-005 |
+| F-017 | Save events (bookmark) | unassigned | F-003, F-006 |
